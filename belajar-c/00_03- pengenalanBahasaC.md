@@ -1,5 +1,5 @@
 # Apa itu bahasa pemograman C
-bahasa pemograman C adalah bahasa pemograman General Purpose (GPL) tingkat tinggi dengan tujuan untuk pembuatan software, 
+bahasa pemograman C adalah bahasa pemograman General Purpose (GPL) tingkat tinggi dengan tujuan untuk pembuatan software,
 dengan yang paling umum adalah untuk pembuatan Operating system, Embedded system, Compilers, Databases, Game Engine, dan lainnya.
 
 ## Sejarah Singkat Bahasa Pemograman C

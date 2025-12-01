@@ -1,4 +1,7 @@
+# Literally Rundown Dari Buku Ini
 Terinspirasi dari website learncpp
+
+## Arc I: Pengenalan
 
 [Setup]
 0.1 - Tentang Web / Tutorial Ini
@@ -10,22 +13,55 @@ Terinspirasi dari website learncpp
 
 [Basics]
 1.1 Hello World: dasar utama systaks dan statement
-1.2 Comment
-1.3 Variables: Tipe Data dan Asignment
-1.4 Variables: Initialization & Declaration
-1.5 Dasar Formatting
-1.6 Keyword
-1.7 Literal dan operator
+1.2 Comment dan Dasar Formatting Comment
+1.3 Variables Asignment
+1.4 Dasar Formatting
+1.5 Keyword
+1.6 Literal
+1.7 Block & Local Scope
+
+[Variables]
+2.1 Tipe Data
+2.2 Variables: Initialization & Declaration
+2.3 Ukuran Tipe Data
+2.4 1D Array
+2.5 Multi Dimensional Array
+2.6 Const
+2.7 Dasar Penamaan Variable
+
+[Input Output]
+3.x printf serta % nya
+3.x scanf beserta risikonya
+
+## Arc II: Dasar Pemograman
+
+[Operasi dan Logika]
+4.x Operasi aritmatika
+4.x Operasi Logika
+
+[Scope dan Duration]
+
+[Percabangan (Control Flow)]
+
+[Loop dan Iterasi]
 
 [Functions]
-2.x Forward Declaration
-2.x Header
+x.x Forward Declaration
+x.x Header
+
+## Arc III: In Depth C
 
 [Std Library]
 
-[Iteration]
+[Memory di C]
 
 [Pointer]
+
+[Manual & Dynamic Memory Allocation]
+
+
+## Arc Finale
+
 
 [Optional 1: Bitwise Operator]
 
